@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+/Users/jeffzuo/eclipse-workspace/JDBC1/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
